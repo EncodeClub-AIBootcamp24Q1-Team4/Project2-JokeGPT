@@ -3,7 +3,11 @@
 ## AI Joke Generator
 
 * The JokeGPT joke generator will generate jokes leveraging large language models.
-
+* Leveraging NextJS and OpenAI, the JokeGPT generates jokes using various:
+  * Topics (work, people, animals, food, television, etc)
+  * Tones (witty, sarcastic, silly, dark, goofy, etc)
+  * Types (pun, knock-knock, story, etc)
+  * "Temperature" of it (how much randomness/fun you want to add to the joke)
 * Please see JokeGPT-[uniqueID] directories for individual project contributions.
 
 ## Weekend Project
