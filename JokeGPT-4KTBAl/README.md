@@ -1,4 +1,16 @@
+## Encode AI Bootcamp Project Week 2 - JokeGPT by Guy Cioffi 4KTBAl
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Project Summary
+This project is a joke generator with generative AI. You can generate a joke based off parameters: style, tone and topic. And have the AI rate the joke based off standards: funniness, appropriateness, or offensiveness.
+
+## Project Puropose
+Build a simple web app to learn about AI large languague models and prompt engineering.
+
+## Sample Screenshot
+![image](https://github.com/EncodeClub-AIBootcamp24Q1-Team4/Project2-JokeGPT/assets/104022335/236b1ebe-eda6-4ab1-a848-03cbb5b84ece)
+
 
 ## Getting Started
 
