@@ -1,7 +1,10 @@
 # Project2-JokeGPT
-AI Joke Generator
 
-Please see JokeGPT-[uniqueID] directories for individual project contributions.
+## AI Joke Generator
+
+* The JokeGPT joke generator will generate jokes leveraging large language models.
+
+* Please see JokeGPT-[uniqueID] directories for individual project contributions.
 
 ## Weekend Project
 
